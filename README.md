@@ -22,6 +22,16 @@ keras==2.1.5
 - [x] Xception模型
 - [ ] ……balabla
 
+### 模型解读：
+- [ ] VGG16模型
+- [ ] MobileNet模型
+- [ ] MobileNetV2模型
+- [ ] MobileNetV3模型
+- [x] [Resnet50模型](https://www.jianshu.com/p/457dfd0f4242)
+- [ ] InceptionV3模型
+- [ ] Inception ResnetV2模型
+- [ ] Xception模型
+
 ### 使用方法
 下来过来直接运行即可，会自动下载模型，如果连接失败，可以多试几次。  
 ![原图Before](/elephant.jpg)  
